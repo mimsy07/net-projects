@@ -4,6 +4,9 @@
 
 - <b>Access Control List (ACL)</b>
   - [Implementation of ACL in two company](https://github.com/mimsy07/ACL)
+
+- <b>Network Address Translator (NAT)</b>
+  - [Implementation of Static and Dynamic NAT](https://github.com/mimsy07/NAT-PAT)
 <!--
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
