@@ -1,6 +1,7 @@
-<h1>Hi, I'm Mimsy Baltar! <br/><a>IT Specialist</a></h1>
+<h1>Hi there!</h1>
+These are the projects that I'm creating, a various CCNA LAB that are already working. each project show cases my knowledge on configuring router and switches
 
-<h2>👨‍💻 Networking Projects:</h2>
+<h3>👨‍💻 Networking Projects:</h3>
 
 - <b>Access Control List (ACL)</b>
   - [Implementation of ACL in two company](https://github.com/mimsy07/ACL)
