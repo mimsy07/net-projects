@@ -3,13 +3,13 @@ These are the projects that I'm creating, a various CCNA LAB that are already wo
 
 <h3>👨‍💻 Networking Projects:</h3>
 
-- <b>Access Control List (ACL)</b>
+- <b>Access Control List (ACL) 🔥</b>
   - [Implementation of ACL in two company](https://github.com/mimsy07/ACL)
 
-- <b>Network Address Translator (NAT)</b>
+- <b>Network Address Translator (NAT) 🥷</b>
   - [Implementation of Static and Dynamic NAT](https://github.com/mimsy07/NAT-PAT)
 
-- <b>OSPF (Open Shortest Path First)</b>
+- <b>OSPF (Open Shortest Path First) ✨</b>
   - [Implementation of Multi-Area OSPF](https://github.com/mimsy07/OSPF)
 <!--
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
