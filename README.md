@@ -8,6 +8,9 @@ These are the projects that I'm creating, a various CCNA LAB that are already wo
 
 - <b>Network Address Translator (NAT)</b>
   - [Implementation of Static and Dynamic NAT](https://github.com/mimsy07/NAT-PAT)
+
+- <b>OSPF (Open Shortest Path First)</b>
+  - [Implementation of Multi-Area OSPF](https://github.com/mimsy07/OSPF)
 <!--
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
