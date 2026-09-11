@@ -1,5 +1,5 @@
 <h1>Hi there!</h1>
-These are the projects that I'm creating, a various CCNA LAB that are already working. each project show cases my knowledge on configuring router and switches
+These are the projects that I'm creating, a various CCNA LAB that are already working. each project show cases my knowledge on configuring router and switches, enjoy 😉
 
 <h3>👨‍💻 Networking Projects:</h3>
 
@@ -11,6 +11,9 @@ These are the projects that I'm creating, a various CCNA LAB that are already wo
 
 - <b>OSPF (Open Shortest Path First) ✨</b>
   - [Implementation of Multi-Area OSPF](https://github.com/mimsy07/OSPF)
+
+- <b>Enhanced Interior Gateway Routing Protocol (EIGRP) :triumph: </b>
+  - [Implementation of Multi-Area OSPF](https://github.com/mimsy07/EIGRP)
 <!--
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
